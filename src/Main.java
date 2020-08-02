@@ -12,7 +12,7 @@ public class Main {
                 total+=scan2.nextInt();
             }
         } catch(Exception e){
-            System.out.println(e);
+            System.out.println(e+"My message");
         }
         System.out.println(total);
 
